@@ -1,0 +1,3 @@
+[submodule "slides/animations"]
+	path = slides/animations
+	url = https://github.com/wontem/animations-in-front-end.git
