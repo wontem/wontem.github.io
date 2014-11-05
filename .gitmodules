@@ -1,3 +1,6 @@
 [submodule "slides/animations"]
 	path = slides/animations
 	url = https://github.com/wontem/animations-in-front-end.git
+[submodule "demos/unknown-pleasures"]
+	path = demos/unknown-pleasures
+	url = https://github.com/wontem/unknown-pleasures.git
