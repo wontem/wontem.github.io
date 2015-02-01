@@ -4,3 +4,6 @@
 [submodule "demos/unknown-pleasures"]
 	path = demos/unknown-pleasures
 	url = https://github.com/wontem/unknown-pleasures.git
+[submodule "demos/multigrid-tilings"]
+	path = demos/multigrid-tilings
+	url = https://github.com/wontem/multigrid-tilings.git
