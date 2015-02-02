@@ -7,3 +7,6 @@
 [submodule "demos/multigrid-tilings"]
 	path = demos/multigrid-tilings
 	url = https://github.com/wontem/multigrid-tilings.git
+[submodule "slides/aperiodic-tiling"]
+	path = slides/aperiodic-tiling
+	url = https://github.com/wontem/aperiodic-tiling.git
